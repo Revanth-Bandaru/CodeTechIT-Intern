@@ -1,0 +1,58 @@
+# 🌳 Decision Tree Classification - Task 1
+
+This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of a **Decision Tree Classifier** using the **Iris dataset**, along with model evaluation and visualization.
+
+---
+
+## 📌 Task Objective
+
+> **Task-1:** Build and visualize a Decision Tree model using scikit-learn to classify or predict outcomes on a chosen dataset.
+
+---
+
+## 📁 Project Contents
+
+| File Name                     | Description |
+|------------------------------|-------------|
+| `Task1_DecisionTree_Iris.ipynb` | Jupyter Notebook with complete implementation of the Decision Tree model |
+| `README.md`                  | Project documentation |
+
+---
+
+## 🧠 Technologies Used
+
+- Python
+- Jupyter Notebook
+- scikit-learn
+- matplotlib
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download the repository.
+2. Open the notebook: `Task1_DecisionTree_Iris.ipynb` in **Jupyter Notebook**.
+3. Run all cells to train, evaluate, and visualize the model.
+
+---
+
+## 📊 Output Highlights
+
+- Accuracy and classification report
+- Visualized decision tree using `plot_tree()`
+
+---
+
+## 🧑‍💻 Author
+
+**Revanth Bandaru**  
+Intern at Code Tech IT Solutions
+
+---
+
+## 📬 Contact
+
+📧 Email: brdk715@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/revanth-bandaru15)
+
+---
