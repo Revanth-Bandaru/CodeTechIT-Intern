@@ -1,21 +1,22 @@
-# 🌳 Decision Tree Classification - Task 1
+# 💬 Sentiment Analysis with NLP - Task 2
 
-This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of a **Decision Tree Classifier** using the **Iris dataset**, along with model evaluation and visualization.
+This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of **Sentiment Analysis** using **TF-IDF Vectorization** and **Logistic Regression** on a sample dataset of customer reviews.
 
 ---
 
 ## 📌 Task Objective
 
-> **Task-1:** Build and visualize a Decision Tree model using scikit-learn to classify or predict outcomes on a chosen dataset.
+> **Task-2:** Perform sentiment analysis on a dataset of customer reviews using TF-IDF vectorization and Logistic Regression.
 
 ---
 
 ## 📁 Project Contents
 
-| File Name                     | Description |
-|------------------------------|-------------|
-| `Task1_DecisionTree_Iris.ipynb` | Jupyter Notebook with complete implementation of the Decision Tree model |
-| `README.md`                  | Project documentation |
+| File Name                         | Description |
+|----------------------------------|-------------|
+| `Sentiment_Analysis_Task2.ipynb` | Jupyter Notebook with complete sentiment analysis pipeline |
+| `sample_customer_reviews.csv`    | Sample dataset containing customer reviews and sentiment labels |
+| `README.md`                      | Project documentation |
 
 ---
 
@@ -24,22 +25,29 @@ This project is part of my internship at **Code Tech IT Solutions**. It demonstr
 - Python
 - Jupyter Notebook
 - scikit-learn
+- pandas
+- numpy
 - matplotlib
+- seaborn
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone or download the repository.
-2. Open the notebook: `Task1_DecisionTree_Iris.ipynb` in **Jupyter Notebook**.
-3. Run all cells to train, evaluate, and visualize the model.
+2. Ensure the following libraries are installed:
+pip install pandas numpy scikit-learn matplotlib seaborn
+3. Open the notebook: `Sentiment_Analysis_Task2.ipynb` in **Jupyter Notebook** or **VS Code**.
+4. Run all cells to preprocess data, train the model, and evaluate results.
 
 ---
 
 ## 📊 Output Highlights
 
-- Accuracy and classification report
-- Visualized decision tree using `plot_tree()`
+- Accuracy and classification report of the Logistic Regression model  
+- Confusion matrix with heatmap  
+- TF-IDF feature transformation  
+- Clean text preprocessing pipeline
 
 ---
 
