@@ -1,5 +1,17 @@
 # 🎯 Recommendation System - Task 4
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: BANDARU REVANTH DURGA KIRAN
+
+*INTERN ID*: CT2MTDM622
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of a **User-Based Collaborative Filtering Recommendation System** using **Cosine Similarity**. The project includes a sample dataset, recommendation logic, evaluation metrics, and visualizations.
 
 ---
