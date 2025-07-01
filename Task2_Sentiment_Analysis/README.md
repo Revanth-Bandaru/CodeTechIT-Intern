@@ -56,6 +56,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## 📊 Output Highlights
 
+<img width="242" alt="Image" src="https://github.com/user-attachments/assets/54f6bebf-365a-4cfd-9341-fc2fb54c4993" />
+
+<img width="262" alt="Image" src="https://github.com/user-attachments/assets/87689fdd-2527-44a0-83a8-e6145697d6ae" />
+
 - Accuracy and classification report of the Logistic Regression model  
 - Confusion matrix with heatmap  
 - TF-IDF feature transformation  
