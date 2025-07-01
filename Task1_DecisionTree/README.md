@@ -50,6 +50,8 @@ This project is part of my internship at **Code Tech IT Solutions**. It demonstr
 
 ## 📊 Output Highlights
 
+<img width="308" alt="Image" src="https://github.com/user-attachments/assets/b0d343e5-05bd-416e-9397-2130dcdbef72" />
+
 - Accuracy and classification report
 - Visualized decision tree using `plot_tree()`
 
