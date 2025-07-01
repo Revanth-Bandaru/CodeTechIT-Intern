@@ -1,5 +1,17 @@
 # 💬 Sentiment Analysis with NLP - Task 2
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: BANDARU REVANTH DURGA KIRAN
+
+*INTERN ID*: CT2MTDM622
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of **Sentiment Analysis** using **TF-IDF Vectorization** and **Logistic Regression** on a sample dataset of customer reviews.
 
 ---
