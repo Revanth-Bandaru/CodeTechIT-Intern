@@ -1,5 +1,17 @@
 # 🧠 Image Classification using CNN - Task 3
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: BANDARU REVANTH DURGA KIRAN
+
+*INTERN ID*: CT2MTDM622
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 This project is part of my internship at **Code Tech IT Solutions**. It demonstrates the implementation of an **Image Classification model** using a **Convolutional Neural Network (CNN)** on the **Fashion MNIST dataset**.
 
 ---
