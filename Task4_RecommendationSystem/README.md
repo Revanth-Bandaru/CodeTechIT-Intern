@@ -60,7 +60,7 @@ This project is part of my internship at **Code Tech IT Solutions**. It demonstr
 <img width="335" alt="Image" src="https://github.com/user-attachments/assets/2aabc483-b993-4c4e-8b30-d28450a9e582" />
 
 - 📌 User Similarity Matrix  
-- ✅ Precision@N and Recall@N for evaluation  
+- ✅ Precision and Recall for evaluation  
 - 📈 Heatmap of user similarities  
 - 🎯 Clean and beginner-friendly recommendation logic
 
